@@ -57,3 +57,18 @@ you can find the notebook that contains code for finetuning process on **Kaggle*
 
 
 
+## RAG
+after finetuning process we found that results were not good as we expected so we changed our style to use **RAG instead of finetuning**.
+
+
+### Model
+we used **Ace-GPT** Model you can find it on huggingface from [here](https://huggingface.co/FreedomIntelligence/AceGPT-7B-chat)
+
+
+### Datastore
+we used **FAISS** vector store to handle retrieving data
+
+
+## Code for RAG
+you can find the notebook on **Kaggle** from [here](https://www.kaggle.com/code/boodyahmedhamdy/rag-using-ace-gpt)
+
