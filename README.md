@@ -72,3 +72,19 @@ we used **FAISS** vector store to handle retrieving data
 ## Code for RAG
 you can find the notebook on **Kaggle** from [here](https://www.kaggle.com/code/boodyahmedhamdy/rag-using-ace-gpt)
 
+
+## About Team
+- [Dr.Ensaf Hossen](https://scholar.google.com/citations?user=eeYSe3sAAAAJ&hl=en) **Supervisor**
+
+- [Abdelrahman Ahmed Hamdy](https://github.com/Boodyahmedhamdy)
+
+- [Shehab Gamal-elden](https://github.com/000Shehab000)
+
+- [Mohsen Hisham Mohamed](https://github.com/Mohsen-Hesham)
+
+- [Maya Ahmed Abdelsatar](https://github.com/mayaahmed2002)
+
+- [Nancy Ahmed Mostafa](https://github.com/Nancyahmedmustafa)
+
+- [Nour Khaled Ali](https://github.com/NourSewafy)
+
